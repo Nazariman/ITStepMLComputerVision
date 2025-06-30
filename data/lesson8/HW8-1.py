@@ -5,6 +5,7 @@
 Можете змінити розмір кадру для кращої візуалізації
 cv2.resize()
 """
+
 from ultralytics import YOLO
 import cv2
 
